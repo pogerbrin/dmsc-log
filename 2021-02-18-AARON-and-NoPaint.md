@@ -2,6 +2,10 @@
 
 # My thoughts on "Harold Cohen and AARON: A 40 Year Collaboration"
 
+A theoretical tool I could use similar to what Harold Cohen used AARON for could be some kind of video camera on a 360 degree tri-pod that would turn and record whenever it wanted to. It could be attached to you via some backback or something, or maybe mounted on top of a car like one of those Google Earth cars. I'm interested in video art, so where I would step in with this process is taking the footage and arranging it however I want. Though, this is a bit different compared to what Cohen did with AARON. Cohen programmed AARON to work the way it did, rather than letting it move about randomly. Maybe I could have this device go off at specific times or time frames? Or perhaps have it record only specific things, such as people, trees, etc. This way it feels more like a collaboration, in that the camcorder would be the one recording, but I would be the one editing, finishing the actual pieces. Part of video art is how it's edited in the artists eyes.
+
+I'm not sure what I would call something like this, I'm not very good at naming things. I usually call objects and such by what it does, that is if it does not already have a name. I'd probably call this the camera thingy, if I'm being completely honest. Or maybe I could call it the Personal FBI because its recording you and other things when you least expect it?
+
 # Here are some of the pieces I made using NoPaint!
 
 ![]({{site.baseurl}}//nopaint1.png)
@@ -11,4 +15,3 @@
 ![]({{site.baseurl}}//nopaint3.png)
 
 ![nopaint4.1.png]({{site.baseurl}}/nopaint4.1.png)
-

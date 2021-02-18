@@ -19,3 +19,7 @@ I'm not sure what I would call something like this, I'm not very good at naming 
 ![nopaint4.1.png]({{site.baseurl}}/nopaint4.1.png)
 
 ![No Paint - 2021.2.18.14.9.14.390.png]({{site.baseurl}}/No Paint - 2021.2.18.14.9.14.390.png)
+
+# Thoughts on NoPaint
+
+I had a lot of fun using this program! The sound effects were quirky, reminded me of Earthbound. The topic of calling these my own artworks is interesting. Sure, I decided what I wanted to stay and what I didn't. I also altered some of the options using the console. Aaaand everyone has a different outcome when they use this site. But at the same time, I didn't program this site, I didn't create the little images, and I didn't choose what happened next. It definitely is a collaboration between the website and I, but I'd say its less of a collaboration compared to Howard Cohen and AARON, considering HE made AARON. Randomness is very apparent in this piece. And in my art and in my life. That's a big topic to dicuss.
